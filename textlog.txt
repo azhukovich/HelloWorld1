@@ -1,0 +1,19 @@
+Bugaga John SmithTROLOLO John SmithBugaga John SmithTROLOLO John Smith
+Bugaga John Smith
+TROLOLO John Smith
+Bugaga John Smith
+TROLOLO John Smith
+Bugaga John Smith
+TROLOLO John Smith
+Getting rest for path - /users
+Bugaga John Smith
+TROLOLO John Smith
+Getting rest for path - http://aztest01.getsandbox.com/users
+Bugaga John Smith
+TROLOLO John Smith
+Getting rest for path - http://aztest01.getsandbox.com/users
+Response is: [  {    "name": "John",    "Business": "Eraser"  },  {    "destiny": "Unknown",    "surname": "Connor",    "name": "Alex"  },  {    "destiny": "Unknown",    "surname": "Connor",    "name": "Alex"  },  {    "destiny": "Unknown",    "surname": "Connor",    "name": "Alex",    "username": "123"  }]
+Bugaga John Smith
+TROLOLO John Smith
+Getting rest for path - http://aztest01.getsandbox.com/users
+Response is: [  {    "name": "John",    "Business": "Eraser"  },  {    "destiny": "Unknown",    "surname": "Connor",    "name": "Alex"  },  {    "destiny": "Unknown",    "surname": "Connor",    "name": "Alex"  },  {    "destiny": "Unknown",    "surname": "Connor",    "name": "Alex",    "username": "123"  }]
